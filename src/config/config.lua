@@ -1,0 +1,3 @@
+config = {
+    ["bindKey"] = "F5",
+}
